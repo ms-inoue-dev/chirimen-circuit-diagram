@@ -1,0 +1,8 @@
+_site/
+.npmrc
+node_modules/
+package-lock.json
+yarn.lock
+dist
+
+.DS_Store
