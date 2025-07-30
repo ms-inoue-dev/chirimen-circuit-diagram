@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" width="27.25mm" height="25mm" viewBox="0 0 77.25 70.86">
+  <rect width="77.25" height="70.86" rx="2.83" ry="2.83" fill="#274782"/>
+  <rect id="rect5375" x="13.83" y="25.58" width="10.63" height="11.89" transform="translate(50.67 12.38) rotate(90)" fill="#c1c0c0"/>
+  <circle cx="7.1" cy="6.3" r="4.08" fill="#fff"/>
+  <circle cx="70.1" cy="6.3" r="4.08" fill="#fff"/>
+  <g>
+    <text id="tspan11445" transform="translate(56.31 22.47)" fill="#fff" font-family="OCRA, OCRA" font-size="4" isolation="isolate"><tspan x="0" y="0">SCL</tspan></text>
+    <text id="tspan11445-6" transform="translate(56.31 30.53)" fill="#fff" font-family="OCRA, OCRA" font-size="4" isolation="isolate"><tspan x="0" y="0">SDA</tspan></text>
+    <text id="tspan11445-1" transform="translate(54.88 54.35)" fill="#fff" font-family="OCRA, OCRA" font-size="4" isolation="isolate"><tspan x="0" y="0">3.3V</tspan></text>
+    <text id="tspan11445-7" transform="translate(56.31 47.7)" fill="#fff" font-family="OCRA, OCRA" font-size="4" isolation="isolate"><tspan x="0" y="0">GND</tspan></text>
+    <text id="tspan11445-2" data-name="tspan11445" transform="translate(56.31 36.59)" fill="#fff" font-family="OCRA, OCRA" font-size="4" isolation="isolate"><tspan x="0" y="0">IO4</tspan><tspan x="-2.86" y="4">(INT)</tspan></text>
+  </g>
+  <rect id="rect5375-2" data-name="rect5375" x="13.72" y="44.39" width="7.41" height="3.44" transform="translate(63.53 28.68) rotate(90)" fill="#c1c0c0"/>
+  <rect id="rect5375-3" data-name="rect5375" x="18.72" y="44.39" width="7.41" height="3.44" transform="translate(68.53 23.68) rotate(90)" fill="#c1c0c0"/>
+  <rect id="rect5375-4" data-name="rect5375" x="23.72" y="44.39" width="7.41" height="3.44" transform="translate(73.53 18.68) rotate(90)" fill="#c1c0c0"/>
+  <g>
+    <rect x="68.48" y="16.78" width="7.09" height="39.63" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width=".5"/>
+    <rect x="68.48" y="48.11" width="7.09" height="8.3" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width=".5"/>
+  </g>
+  <line x1="37.71" y1="1.98" x2="35.66" y2="6.3" fill="none"/>
+  <line x1="36.19" y1="6.67" x2="35.66" y2="3.64" fill="none"/>
+  <rect x="16.1" y="57.35" width="47.34" height="10.29" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width=".5"/>
+  <text id="tspan11445-3" data-name="tspan11445" transform="translate(18.53 61.52)" fill="#fff" font-family="OCRA, OCRA" font-size="3" isolation="isolate"><tspan x="0" y="0">BH1745NUC module</tspan></text>
+  <text id="tspan11445-4" data-name="tspan11445" transform="translate(18.85 65.58)" fill="#fff" font-family="OCRA, OCRA" font-size="3" isolation="isolate"><tspan x="0" y="0">http://ssci.to/2773</tspan></text>
+  <rect id="rect5375-5" data-name="rect5375" x="34.23" y="1.51" width="8.16" height="9.57" transform="translate(44.61 -32.02) rotate(90)" fill="#fff"/>
+  <polygon points="37.39 1.89 35.93 4.86 38.14 4.65 37.34 7.49 40.35 4.65 38.98 4.65 39.81 1.82 37.39 1.89" fill="#274782"/>
+  <g>
+    <path id="connector4pin" d="M71.14,23.15v-1.77h1.77v1.77h-1.77Z" fill="#f4dd26" stroke="#040000" stroke-linejoin="round" stroke-width=".11"/>
+    <path id="connector3pin" d="M71.14,29.9v-1.77h1.77v1.77h-1.77Z" fill="#f4dd26" stroke="#040000" stroke-linejoin="round" stroke-width=".11"/>
+    <path id="connector2pin" d="M71.14,37.65v-1.77h1.77v1.77h-1.77Z" fill="#f4dd26" stroke="#040000" stroke-linejoin="round" stroke-width=".11"/>
+    <path id="connector1pin" d="M71.14,45.4v-1.77h1.77v1.77h-1.77Z" fill="#f4dd26" stroke="#040000" stroke-linejoin="round" stroke-width=".11"/>
+    <path id="connector0pin" d="M71.14,53.15v-1.77h1.77v1.77h-1.77Z" fill="#f4dd26" stroke="#040000" stroke-linejoin="round" stroke-width=".11"/>
+  </g>
+</svg>
